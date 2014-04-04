@@ -1,4 +1,4 @@
-- Micro Parser Combinator library for C
+/*- Micro Parser Combinator library for C
 **
 ** https://github.com/orangeduck/mpc
 **
