@@ -1,7 +1,7 @@
 TARGET = evaluation
 LIBS = -lm -ledit
 CC = gcc
-CFLAGS = -g -Wall -O -Wextra -Wundef -Wshadow -Wpointer-arith -Wstrict-prototypes -Wswitch-enum -Wconversion -Wunreachable-code -ftrapv -fverbose-asm -S -finstrument-functions
+CFLAGS = -g -Wall 
 
 .PHONY: clean all default
 
